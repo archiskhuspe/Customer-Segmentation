@@ -2,6 +2,6 @@
 
 💫 Files
 
-R Code: Project file
-Dataset: Customer information
-Literature Survey: Analysis of different Research papers
+1. R Code: Project file
+2. Dataset: Customer information
+3. Literature Survey: Analysis of different Research papers
